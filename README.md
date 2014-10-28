@@ -1,4 +1,4 @@
 Class_Coffee
 ============
 
-tribute to Oleg Zinchenko aka cystbear
+via Oleg Zinchenko aka cystbear
